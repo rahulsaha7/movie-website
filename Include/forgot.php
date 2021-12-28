@@ -174,8 +174,7 @@ input[type = "submit"]{
 							}
 						}
 				
-					}
-//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			
+							
 					
 	//	$connect->close();	
 	}
